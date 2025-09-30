@@ -2,6 +2,7 @@ body {
 
     background-image: url(images/back.png);
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
@@ -10,5 +11,6 @@ div {
     background-image: url(images/background.png);
     background-repeat: no-repeat;
     height: 100vh;
+    background-position: center;
 
 }
