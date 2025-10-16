@@ -42,3 +42,13 @@ img {
 .content {
     padding-top: 75px;
 }
+
+.text {
+    width: max-content;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px 30px;
+    margin: 23px auto;
+    border: 10px solid darkorchidпше;
+}
